@@ -21,7 +21,7 @@ Development process:
 - Started with a simple Canny image filter and decided it would be cool to make
   it show colors as well.
 
-![]()
+![](CannyImageNoColor.png)
 
 - Started playing with image dimensions and see what would happen if I tweaked
   certain parts of matrices in images.
