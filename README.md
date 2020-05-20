@@ -32,4 +32,6 @@ Development process:
   as well as idea amount of edges shown in images by adjusting parameters of cv2.Canny
 
 The following images are snippets of what the output looks like
-(insert images of final product here)
+![](colored1.png)
+
+![](colored2.png)
