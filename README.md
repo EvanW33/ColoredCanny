@@ -1,4 +1,4 @@
-****************** Colored Edged Camera ******************
+**Colored Edged Camera**
 
 Python version 3.8.2 used in development
 
@@ -21,7 +21,7 @@ Development process:
 - Started with a simple Canny image filter and decided it would be cool to make
   it show colors as well.
 
-(insert cannyImageNoColor.png here)
+![]()
 
 - Started playing with image dimensions and see what would happen if I tweaked
   certain parts of matrices in images.
